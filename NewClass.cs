@@ -6,5 +6,7 @@ namespace ConsoleApp1_bc
 {
     internal class NewClass
     {
+        int a = 5;
     }
+    
 }
