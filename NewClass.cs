@@ -10,7 +10,7 @@ namespace ConsoleApp1_bc
 
         public void myClass()
         {
-            int a = 6;
+            int a = 5;
         }
     }
     
