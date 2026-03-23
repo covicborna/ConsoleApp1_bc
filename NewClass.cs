@@ -13,5 +13,6 @@ namespace ConsoleApp1_bc
             int a = 6;
         }
     }
+    
 }
 
