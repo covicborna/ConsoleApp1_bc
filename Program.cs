@@ -7,7 +7,6 @@ namespace ConsoleApp1_bc
         static void Main(string[] args)
         {
             Console.WriteLine("Novo");
-            int a = 6;
         }
     }
 }
