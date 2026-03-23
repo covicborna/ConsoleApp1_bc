@@ -6,5 +6,12 @@ namespace ConsoleApp1_bc
 {
     internal class NewClass
     {
+        public string poruka = "Nova klasa";
+
+        public void myClass()
+        {
+
+        }
     }
 }
+
